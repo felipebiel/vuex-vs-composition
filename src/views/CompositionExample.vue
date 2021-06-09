@@ -1,5 +1,5 @@
 <template>
-    <div>Home do Site</div>
+    <div>Exemplo de Contador com Composition API</div>
 </template>
 
 <script>

@@ -1,5 +1,5 @@
 <template>
-    <div>About do site</div>
+    <div>Exemplo de contador com Vuex</div>
 </template>
 
 <script>
