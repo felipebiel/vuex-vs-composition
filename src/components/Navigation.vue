@@ -1,7 +1,8 @@
 <template>
     <nav class="navigation">
         <router-link :to="{ name: 'vuex' }">Vuex</router-link> |
-        <router-link :to="{ name: 'composition' }">Composition</router-link>
+        <router-link :to="{ name: 'composition' }">Composition</router-link> |
+        <router-link :to="{ name: 'states' }">Estados</router-link>
     </nav>
 </template>
 
